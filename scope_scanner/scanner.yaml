@@ -1,3 +1,6 @@
 class: Scanner source
 subclasses:
-  - class: Labeled
+  - class: Scanner comments
+    subclasses:
+      - class: Labeled
+      - class: Ignore
