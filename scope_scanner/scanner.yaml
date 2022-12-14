@@ -5,3 +5,4 @@ subclasses:
       - class: Labeled
       - class: In progress
       - class: Ignore
+      
